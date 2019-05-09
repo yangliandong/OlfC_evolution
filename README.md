@@ -1,2 +1,2 @@
 # OlfC_evolution
-Code for OlfC gene evolution
+Code for OlfC genes evolution
